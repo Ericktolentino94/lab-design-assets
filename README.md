@@ -31,7 +31,7 @@ Feel free to add, move, or remove the other components.
 
 Make sure you complete the following tasks
 
-- [ ] Choose a cohesive color theme and be sure to apply it.
+- [x] Choose a cohesive color theme and be sure to apply it.
 - [ ] Create a layout and apply it to your page.
 - [ ] Replace placeholder text with your own text.
 - [ ] Add at least one new font.
